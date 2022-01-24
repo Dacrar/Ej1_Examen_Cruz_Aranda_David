@@ -58,7 +58,7 @@ public class Ej2_Cruz_Aranda_David {
 			}
 			
 			double media_pac = examen.media_paciente(imcs_pacientes, paciente);
-			System.out.printf("La media anual de ICM del paciente %d es: %.2f", paciente, media_pac);
+			System.out.printf("La media de ICM del paciente %d es: %.2f", paciente, media_pac);
 			
 
 	
